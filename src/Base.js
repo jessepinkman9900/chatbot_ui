@@ -30,7 +30,7 @@ class Base extends Component {
 
     render() {
         return ( 
-            <div class="align-center">
+            <div>
                 <Launcher agentProfile={{
                     teamName: 'GandhiAI',
                     imageUrl: 'https://a.slack-edge.com/66f9/img/avatars-teams/ava_0001-34.png'
